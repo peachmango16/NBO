@@ -14,4 +14,4 @@ Program: free one-to-one NBO observation visits with a licensed practitioner in 
 | A. Recruiting | 01 Letter to referring professionals (with referral slip), 02 Parent invitation, 03 Program overview, 04 Social media kit, 04b Poster and caption brief (with visit times) |
 | B. Volunteer information | 05 Information sheet, 06 FAQ, 07 Parent checklist, 08 Accommodations form, 09 What happens during the visit |
 | C. Consent and records | 10 Consent 1 (taking part, required), 11 Consent 2 (recording and teaching use at ConnectEd Kids Therapy Center, CORE, and SPACES), 12 Consent 3 (examples, feedback, and promotion, optional), 13 Baby and family information form, 14 Post-visit feedback form |
-| E. Practitioner records | 15 Visit script and phrase bank (English and Taglish), 16 Certification tracker, 17 Recording and privacy protocol, 18 Certification checklist and guidelines (one page) |
+| E. Practitioner records | 15 Visit script and phrase bank (English and Taglish), 16 Certification tracker, 17 Recording and privacy protocol, 18 Certification checklist and guidelines (one page), 19 NBO visit cheat sheet, 20 Cross-check and open items |
